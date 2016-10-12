@@ -13,7 +13,7 @@
 * UNIVARIATE and MULTIVARIATE LINEAR REGRESSION(W/WO GRADIENT DESCENT) -- DONE
 * LOGISTIC REGRESSION on first 10 principal components of a dataset to CLASSIFY an Experiemnt as of Physics OR Chemistry -- DONE
 * NEURAL NETS for binary geo-coordinates classification using back propogation -- DONE
-** This is the neural net implemented ,with two hidden layers and two units in each hidden layer, apart from bias term ** 
+** The Architecture of the neural net implemented is shown below ,with two hidden layers and two units in each hidden layer, apart from bias term **
 ![](https://github.com/ishaan007/Machine-Learning/blob/master/Assets/neural_net_implemented.jpg)
 * SUPPORT VECTOR MACHINES -- TODO
 
