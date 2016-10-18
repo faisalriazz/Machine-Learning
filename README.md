@@ -7,6 +7,7 @@
 ### * [Subject Classification Dataset](http://komarix.org/ac/ds/)
 ### * [Geo-location Coordinates Training Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/MASS/synth.tr.html)
 ### * [Geo-location Coordinates Test Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/MASS/synth.te.html)
+### * [Sleep Deprivation Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/lme4/sleepstudy.html)
 
 
 ## This Week TODO:
@@ -15,7 +16,10 @@
 * NEURAL NETS for binary geo-coordinates classification using back propogation -- DONE
 ** The Architecture of the neural net implemented is shown below ,with two hidden layers and two units in each hidden layer, apart from bias term **
 ![](https://github.com/ishaan007/Machine-Learning/blob/master/Assets/neural_net_implemented.jpg)
-* SUPPORT VECTOR MACHINES -- TODO
+* SUPPORT VECTOR MACHINES -- 3 dimensional feature set mapped to 180 dimensional feature set where m= #landmarks/#training egs using gaussian kernel
+* K-Means Clustering --TODO
+* Principal Component Analysis (PCA) --TODO
+
 
 ### README will be updated ** very very frequently
 
