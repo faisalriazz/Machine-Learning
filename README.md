@@ -17,8 +17,9 @@
 ** The Architecture of the neural net implemented is shown below ,with two hidden layers and two units in each hidden layer, apart from bias term **
 ![](https://github.com/ishaan007/Machine-Learning/blob/master/Assets/neural_net_implemented.jpg)
 * SUPPORT VECTOR MACHINES -- 3 dimensional feature set mapped to 180 dimensional feature set where m= #landmarks/#training egs using gaussian kernel
-* K-Means Clustering --TODO
+* K-Means Clustering --DONE
 * Principal Component Analysis (PCA) --TODO
+* Col Filtering --TODO
 
 
 ### README will be updated ** very very frequently
