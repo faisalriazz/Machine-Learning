@@ -1,5 +1,6 @@
 #  ML Algorithms 
 
+### All the snippets need to be optimized to be made scalable and are only initial implementations of the standard ML algos
 
 ## Dataset Sources
 ### * [Air Passenger Dataset](http://www-eio.upc.edu/~pau/cms/rdata/doc/datasets/AirPassengers.html)
@@ -8,6 +9,7 @@
 ### * [Geo-location Coordinates Training Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/MASS/synth.tr.html)
 ### * [Geo-location Coordinates Test Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/MASS/synth.te.html)
 ### * [Sleep Deprivation Dataset](https://vincentarelbundock.github.io/Rdatasets/doc/lme4/sleepstudy.html)
+### * [Rock Mines classification dataset](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29)
 
 
 ## This Week TODO:
@@ -18,7 +20,7 @@
 ![](https://github.com/ishaan007/Machine-Learning/blob/master/Assets/neural_net_implemented.jpg)
 * SUPPORT VECTOR MACHINES -- 3 dimensional feature set mapped to 180 dimensional feature set where m= #landmarks/#training egs using gaussian kernel
 * K-Means Clustering --DONE
-* Principal Component Analysis (PCA) --TODO
+* Principal Component Analysis (PCA) --DONE
 * Col Filtering --TODO
 
 
